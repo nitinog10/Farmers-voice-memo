@@ -1,0 +1,7 @@
+{
+  "name": "Farmer's Voice Memo",
+  "description": "A simple voice recorder for farmers to capture their requests and instantly convert them to text using AI. Just press record, speak your mind, and get a transcription.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
